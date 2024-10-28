@@ -205,8 +205,7 @@ body {
 
 
 @media screen and (max-width: 480px){
-.wrapper{
+.wrapper, .accordion-body{
   padding: 0 !important;
 }
-  
 }
